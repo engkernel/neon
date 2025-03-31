@@ -1,0 +1,8 @@
+[package]
+name = "neon"
+version = "0.1.0"
+authors = ["engkernel@gmail.com"]
+edition = "2024"
+
+[dependencies]
+bootloader = "0.9"
